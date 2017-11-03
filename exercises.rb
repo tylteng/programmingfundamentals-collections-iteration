@@ -72,5 +72,5 @@ siblings = {
 # puts "-"*30
 # puts generation_x.reverse
 
-movies[:'Beauty and the Beast'] = 1991, 2017  #4
-puts movies[:'Beauty and the Beast']
+# movies[:'Beauty and the Beast'] = 1991, 2017  #4
+# puts movies[:'Beauty and the Beast']
