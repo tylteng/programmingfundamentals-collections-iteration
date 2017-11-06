@@ -7,7 +7,7 @@ movies = {
 phone_buttons = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 countries = [
-  {name: Manhattan, population: 8500000, island: yes},
+  {name: NYC, population: 8500000, island: no},
   {name: London, population: 8630000, island: yes},
   {name: Tokyo, population: 9260000, island: yes}
 ]
